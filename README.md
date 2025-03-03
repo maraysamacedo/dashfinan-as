@@ -1,4 +1,4 @@
-# DashFinanças
+# Dashboard de Finanças
 ## Visão geral
 DashFinanças é um projeto de dashboard de visualização financeira criado no Power BI. O objetivo é proporcionar uma análise interativa e dinâmica das finanças pessoais ou empresariais, utilizando gráficos e métricas financeiras importantes para calcular receitas, despesas, saldos e outros indicadores financeiros.
 <br>
