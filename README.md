@@ -8,6 +8,8 @@ DashFinanças é um projeto de dashboard de visualização financeira criado no 
 - **Indicadores Financeiros:** Cálculo de indicadores financeiros importantes, como a média de despesas, variação de receitas e tendências.
 - **Filtros Interativos:** Filtros de período e categoria para permitir a análise detalhada das finanças em diferentes dimensões.
 - **Gráficos de Performance:** Gráficos de barras, linhas e pizza para acompanhar a evolução das finanças.
-<br><br><br><br>
+<br><br>
+**[Projeto DRE](https://app.powerbi.com/view?r=eyJrIjoiNjgxZmJkMWItMzg0Ny00YzYyLTgzNDUtMzYxMTkwODEzMzQ5IiwidCI6IjAwMWVkMTQ5LWQ3NjEtNGRjNS05ODMwLTUyYTc5ZjU1MmU4NCJ9)**
+<br><br>
 ![Demonstração do Projeto](3%C2%AA%20Dashboard%20-%20Finan%C3%A7as/gif/Projeto%20POWER%20BI%20%20Dashboard%20Finan%C3%A7as.gif)
 
